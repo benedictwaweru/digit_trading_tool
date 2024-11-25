@@ -1,0 +1,13 @@
+# Django
+django
+djangorestframework
+
+# WebSockets
+channels
+daphne
+
+# PostgreSQL
+psycopg2-binary
+
+# Deriv API
+python_deriv_api
